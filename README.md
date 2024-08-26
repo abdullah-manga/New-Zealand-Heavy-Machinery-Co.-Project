@@ -113,7 +113,3 @@ This project involves creating an interactive Power BI dashboard to analyze sale
 - **Logistics Efficiency**: The average order delay has increased, indicating potential inefficiencies in the logistics process.
 - **Warehouse Utilization**: Warehouse 4 is being overutilized, which may be contributing to the higher average order delay and overall logistics challenges.
 
-
-## Contributor
-
-- **Abdullah Mohammed Ibrahim** - Data Analysis and Power BI Dashboard Development
